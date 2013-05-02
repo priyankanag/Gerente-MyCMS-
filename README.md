@@ -1,4 +1,4 @@
-Gerente- Manage your softwares with us
+Gerente- Manage your software with us
 ======================================
 
 Overall Description:
